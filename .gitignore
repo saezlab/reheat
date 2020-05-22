@@ -40,3 +40,9 @@ vignettes/*.pdf
 
 # knitted README
 README.html
+
+# other files
+data-raw/
+rsconnect/
+sub/debugging.R
+sub/tidy_data.R
