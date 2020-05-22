@@ -15,15 +15,15 @@ Within ReHeaT we provide following services:
 
 <i class="far fa-list-alt"></i> consensus signature created and corresponding analyses performed by Ricardo Ramirez (<a href="mailto:ricardo.ramirez@bioquant.uni-heidelberg.de" target="_blank"><i class="glyphicon glyphicon-envelope"></i></a>) and Jan Lanzer (<a href="mailto:jan.lanzer@bioquant.uni-heidelberg.de" target="_blank"><i class="glyphicon glyphicon-envelope"></i></a>) at the <a href="http://saezlab.org" target="_blank">Saezlab</a>, Institute for Computational Biomedicine, University of Heidelberg.
 
-<i class="fas fa-user-cog"></i> developed and maintained by Christian Holland (<a href="mailto:christian.holland@bioquant.uni-heidelberg.de" target="_blank"><i class="glyphicon glyphicon-envelope"></i></a>) at the <a href="http://saezlab.org" target="_blank">Saezlab</a>, Institute for Computational Biomedicine, University of Heidelberg.
+<i class="fas fa-user-cog"></i> the app is developed and maintained by Christian Holland (<a href="mailto:christian.holland@bioquant.uni-heidelberg.de" target="_blank"><i class="glyphicon glyphicon-envelope"></i></a>) at the <a href="http://saezlab.org" target="_blank">Saezlab</a>, Institute for Computational Biomedicine, University of Heidelberg.
 
 <i class="fas fa-laptop-code"></i> developed using <a href="https://shiny.rstudio.com" target="_blank">Shiny</a>.
 
 ---
 
-<i class="fab fa-github"></i> Source code is available on <a href="https://github.com/saezlab/HF_meta-analysis/tree/master/shinyapp" target="_blank">GitHub</a>.
+<i class="fab fa-github"></i> Source code is available on <a href="https://github.com/saezlab/reheat" target="_blank">GitHub</a>.
 
-<i class="fas fa-question"></i> Please use <a href="https://github.com/saezlab/HF_meta-analysis/issues" target="_blank">GitHub's issue system</a> to address questions, bugs or feedback. 
+<i class="fas fa-question"></i> Please use <a href="https://github.com/saezlab/reheat/issues" target="_blank">GitHub's issue system</a> to address questions, bugs or feedback. 
 
 ---
 
