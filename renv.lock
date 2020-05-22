@@ -479,14 +479,9 @@
     "pillar": {
       "Package": "pillar",
       "Version": "1.4.4",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteRepo": "pillar",
-      "RemoteUsername": "r-lib",
-      "RemoteRef": "master",
-      "RemoteSha": "2f5ad11bfe54906705073cc52a808e0a51998fb4",
-      "Hash": "33e002e67989c8e8e170482e354b368c"
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "b01d2494d0e2b6b02fae40e1543fbcb0"
     },
     "pingr": {
       "Package": "pingr",
@@ -623,10 +618,15 @@
     },
     "rsconnect": {
       "Package": "rsconnect",
-      "Version": "0.8.16",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "3924a1c20ce2479e89a08b0ca4c936c6"
+      "Version": "0.8.16-9001",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "rstudio",
+      "RemoteRepo": "rsconnect",
+      "RemoteRef": "master",
+      "RemoteSha": "40c162bf3c4cd9b10deed82e1df9ec1b0c107c1f",
+      "Hash": "58df64fb7e9eb6c56d2094f1b62735da"
     },
     "rstudioapi": {
       "Package": "rstudioapi",
