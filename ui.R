@@ -8,8 +8,8 @@ ui = function(request) {
     navbarPage(
       id = "menu", 
       title = div(img(src="logo_saezlab.png", width="25", height="25"),
-                  "RefHF-App"),
-      windowTitle = "RefHF",
+                  "ReHeat-App"),
+      windowTitle = "ReHeat",
       collapsible=T,
       
       #### Welcome ####
