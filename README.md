@@ -18,18 +18,36 @@ transcriptional consensus signature of human end-stage heart failure
 (HF-CS).
 
 The HF-CS is based on a
-[meta-analysis](https://github.com/saezlab/HF_meta-analysis) of 16
-independent studies.
+[meta-analysis](https://www.medrxiv.org/content/10.1101/2020.05.23.20110858v1)
+of 16 independent studies. Corresponding code is available
+[here](https://github.com/saezlab/HF_meta-analysis).
 
 ### How to access
 
-You can access a live version running
-[here](https://saezlab.shinyapps.io/reheat/) on the server from
-`shinyapps.io`.
+There are basically three ways of how to access ReHeaT:
 
-Alternatively you can also run the app locally in an interactive R
-session:
+  - You can access a live version running
+    [here](https://saezlab.shinyapps.io/reheat/) on the server from
+    `shinyapps.io`.
+
+  - You can run the app locally in an interactive R session. Before make
+    sure you have all packages installed listed in
+    [`sub/global.R`](https://github.com/saezlab/reheat/blob/master/sub/global.R).
+
+<!-- end list -->
 
 ``` r
 shiny::runGitHub("reheat", "saezlab")
+```
+
+  - You can run the app locally by cloning this repository. All required
+    packages can be easily installed using the
+    [`renv`](https://rstudio.github.io/renv/index.html) package.
+
+<!-- end list -->
+
+``` r
+# install all required packages using the renv package
+renv::restore()
+shiny::runApp()
 ```

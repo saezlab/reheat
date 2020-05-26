@@ -135,7 +135,7 @@ ui = function(request) {
       ),
       
       #### Footer ####
-      footer = column(12, align="center", "RefHF-App 2020")
+      footer = column(12, align="center", "ReHeaT-App 2020")
     ) # close navbarPage
   ) # close fluidPage
 }

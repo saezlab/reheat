@@ -1,5 +1,5 @@
 # Welcome to **ReHeaT**,
-## the **Re**ference for the **Hea**rt failure **T**ranscriptome
+> the **Re**ference for the **Hea**rt failure **T**ranscriptome
 
 
 ### Abstract
@@ -22,4 +22,4 @@ This resource can be leveraged in many ways, please refer to the original public
 
 ### Citation
 > Ramirez-Flores RO, Lanzer JD, Holland CH, Leuschner F, Most P, Schultz J-H, Levinson RT, 
-Saez-Rodriguez J. "The Reference of the Transcriptional Landscape of Human End-Stage Heart Failure." _In preparation_. 2020.
+Saez-Rodriguez J. "A Consensus Transcriptional Landscape of Human End-Stage Heart Failure." _medRxiv_. 2020. DOI: [10.1101/2020.05.23.20110858](https://www.medrxiv.org/content/10.1101/2020.05.23.20110858v1)

@@ -46,3 +46,5 @@ data-raw/
 rsconnect/
 sub/debugging.R
 sub/tidy_data.R
+
+inst/*.html
