@@ -6,7 +6,7 @@
 
 ReHeaT is a user friendly portal to explore, analyze and download the transcriptional consensus signature of human end-stage heart failure (HF-CS).
 
-The HF-CS is based on a meta-analysis of 16 independent studies. 
+The HF-CS is based on a [meta-analysis of 16 independent studies](https://www.medrxiv.org/content/10.1101/2020.05.23.20110858v1). 
 
 
 ### Method
