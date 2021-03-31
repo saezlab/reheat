@@ -18,7 +18,7 @@ transcriptional consensus signature of human end-stage heart failure
 (HF-CS).
 
 The HF-CS is based on a
-[meta-analysis](https://doi.org/10.1101/2020.05.23.20110858) of 16
+[meta-analysis](http://doi.org/10.1161/JAHA.120.019667) of 16
 independent studies. Corresponding code is available
 [here](https://github.com/saezlab/HF_meta-analysis).
 
